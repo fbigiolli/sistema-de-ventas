@@ -1,0 +1,27 @@
+# ninja log v5
+5	1273	7104497168025929	CMakeFiles/correrTests.dir/src/fachada_lollapatuza.cpp.obj	a8b3f8adc579bb87
+10	1345	7104497168867476	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.obj	6bef2db68937d408
+1346	1462	7104497170024989	libgtest_main.a	499d51a33e9f8cb7
+28	1585	7104497171239539	CMakeFiles/correrTests.dir/src/lollapatuza.cpp.obj	9b7dae0711e1f616
+22	1660	7104497172005020	CMakeFiles/correrTests.dir/src/puesto.cpp.obj	e46f5e4578f77187
+16	2749	7104497182867517	CMakeFiles/correrTests.dir/tests/tests_lollapatuza.cpp.obj	86bf201bb90fda82
+0	6059	7104497215928381	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.obj	9804b6bce3101991
+6060	7096	7104497226385901	libgtest.a	81f00467b66fa9e9
+7096	8930	7104497244661179	correrTests.exe	2df2d1ddf36cdb17
+4	1251	7104498267700906	CMakeFiles/correrTests.dir/src/lollapatuza.cpp.obj	9b7dae0711e1f616
+1252	3035	7104498285511578	correrTests.exe	2df2d1ddf36cdb17
+3	882	7104498771997014	CMakeFiles/correrTests.dir/src/lollapatuza.cpp.obj	9b7dae0711e1f616
+883	2643	7104498789559824	correrTests.exe	2df2d1ddf36cdb17
+3	1061	7104499581693117	CMakeFiles/correrTests.dir/src/lollapatuza.cpp.obj	9b7dae0711e1f616
+1062	2960	7104499600661095	correrTests.exe	2df2d1ddf36cdb17
+5	1120	7104500481492677	CMakeFiles/correrTests.dir/src/lollapatuza.cpp.obj	9b7dae0711e1f616
+1120	2915	7104500499406978	correrTests.exe	2df2d1ddf36cdb17
+4	1007	7104501564751123	CMakeFiles/correrTests.dir/src/lollapatuza.cpp.obj	9b7dae0711e1f616
+1007	2750	7104501582140384	correrTests.exe	2df2d1ddf36cdb17
+3	648	7104505563394523	CMakeFiles/correrTests.dir/src/fachada_lollapatuza.cpp.obj	a8b3f8adc579bb87
+12	919	7104505566099799	CMakeFiles/correrTests.dir/src/lollapatuza.cpp.obj	9b7dae0711e1f616
+7	1009	7104505566992366	CMakeFiles/correrTests.dir/src/puesto.cpp.obj	e46f5e4578f77187
+16	1907	7104505575967123	CMakeFiles/correrTests.dir/tests/tests_lollapatuza.cpp.obj	86bf201bb90fda82
+1907	3656	7104505593418480	correrTests.exe	2df2d1ddf36cdb17
+3	931	7104505659861220	CMakeFiles/correrTests.dir/src/puesto.cpp.obj	e46f5e4578f77187
+931	2696	7104505677465440	correrTests.exe	2df2d1ddf36cdb17
