@@ -41,8 +41,6 @@ lollapatuza::lollapatuza(Puestos p, Personas personas): _personas(personas), _pu
 
 };
 
-/*En la inicializacion de la instancia lollapatuza hay una mejora en la complejidad, que pasa de tener O(A*P*I) a O(A*I + P*I). Para obtenerla, guardamos primero todos
- * los items y luego los definimos para todas las personas, en lugar de para cada persona buscar nuevamente todos los items que habia.*/
 
 void lollapatuza:: registrarVenta(IdPuesto id, Persona persona, Producto producto, Cantidad cantidad)
 {
